@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6222cb42_1b7e84a2",
+        "filename": "holamundo.html",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1013528
+      },
+      "writtenOn": "2018-02-16T17:20:49Z",
+      "side": 1,
+      "message": "This is cool",
+      "range": {
+        "startLine": 1,
+        "startChar": 20,
+        "endLine": 1,
+        "endChar": 32
+      },
+      "revId": "0390097726d2c01ecec0c0f5be2602341ee98b03",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
